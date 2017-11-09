@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -116,7 +117,21 @@ namespace TestApplication
                     }
                     else
                     {
-                        find = string.Equals(line, search.ToUpper());
+                        foreach (char x in line)
+                        {
+
+                            var source = inputString.ToLookup(inputitem => inputitem);
+                            var dest = line.ToLookup(lineItem => lineItem);
+                            var output = source.SelectMany(i => i.Take(i.Count() - dest[i.Key].Count())).ToArray();
+                            if (output.Length == 0)
+                            {
+                                find = true;
+                            }
+                            else
+                            {
+                                find = false;
+                            }
+                        }
                     }
 
 
@@ -163,7 +178,3 @@ namespace TestApplication
         }
     }
 }
-
-
-
-    

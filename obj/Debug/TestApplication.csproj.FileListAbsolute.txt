@@ -21,3 +21,9 @@ C:\Users\DeanvD\Desktop\RetroRabitChallenge-master\obj\Debug\TestApplication.exe
 C:\Users\DeanvD\Desktop\RetroRabitChallenge-master\obj\Debug\TestApplication.pdb
 C:\Users\DeanvD\Desktop\RetroRabitChallenge-master\bin\Debug\TestApplication.exe
 C:\Users\DeanvD\Desktop\RetroRabitChallenge-master\bin\Debug\TestApplication.pdb
+C:\Users\DeanvD\Documents\GitHub\RetroRabitChallenge.v1.1\bin\Debug\TestApplication.exe.config
+C:\Users\DeanvD\Documents\GitHub\RetroRabitChallenge.v1.1\obj\Debug\TestApplication.exe
+C:\Users\DeanvD\Documents\GitHub\RetroRabitChallenge.v1.1\obj\Debug\TestApplication.pdb
+C:\Users\DeanvD\Documents\GitHub\RetroRabitChallenge.v1.1\bin\Debug\TestApplication.exe
+C:\Users\DeanvD\Documents\GitHub\RetroRabitChallenge.v1.1\bin\Debug\TestApplication.pdb
+C:\Users\DeanvD\Documents\GitHub\RetroRabitChallenge.v1.1\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
